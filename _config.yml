@@ -1,0 +1,18 @@
+# Site settings
+name: Joshua Yi
+location: Shanghai
+company: Shanghai American School
+position: Student
+github: https://github.com/Joshua-R-Yi
+facebook: https://www.facebook.com/joshua.yi.5015
+phone: +86 18964081004
+email: joshuayi2004@gmail.com
+
+baseurl: '/resume.io'
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
