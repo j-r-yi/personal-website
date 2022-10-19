@@ -8,7 +8,10 @@ facebook: https://www.facebook.com/joshua.yi.5015
 phone: +86 18964081004
 email: joshuayi2004@gmail.com
 
-baseurl: '/resume.io'
+# baseurl: '/resume.io'
+# domain: Joshua-R-Yi.github.io
+# url: https://Joshua-R-Yi.github.io
+baseurl: 'Joshua-R-Yi.io'
 
 permalink: /:year/:month/:day/:title/
 
